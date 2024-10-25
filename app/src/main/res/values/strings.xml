@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kalkulator Kubus</string>
+    <string name="hint_sisi">Masukkan panjang sisi</string>
+    <string name="menu_luas">Hitung Luas</string>
+    <string name="menu_volume">Hitung Volume</string>
+    <string name="button_hitung">Hitung</string>
+    <string name="result_luas">Luas Kubus: %1$s</string>
+    <string name="result_volume">Volume Kubus: %1$s</string>
+    <string name="title_hasil">Hasil Perhitungan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

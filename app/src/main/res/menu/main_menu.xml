@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_luas"
+        android:title="@string/menu_luas"/>
+    <item
+        android:id="@+id/menu_volume"
+        android:title="@string/menu_volume"/>
+</menu>
